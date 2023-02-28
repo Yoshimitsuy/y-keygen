@@ -1,4 +1,4 @@
-import '../style.css'
+import '../style.css';
 import { nanoid } from 'nanoid';
 
 // console.log(nanoid());
